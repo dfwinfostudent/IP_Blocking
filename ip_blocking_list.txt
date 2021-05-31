@@ -14,3 +14,10 @@ CIDR,Owner
 45.162.4.0/22,
 74.120.14.0/24,
 88.80.184.0/21,Linode
+192.87.0.0/23,OPenResolversResearch
+107.181.165.0/24,TotalServerSols
+141.212.123.0/24,UMichEng
+14.1.112.0/23,AliBaba-SG
+185.150.190.0/23,ReliableSiteDotNet
+111.0.0.0/10,ChinanetMobile
+129.250.0.0/16,NTTAmerica
