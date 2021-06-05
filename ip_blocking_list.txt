@@ -1,4 +1,4 @@
-CIDR,Owner
+CIDR,Owner,ASN
 162.142.125.0/24,
 131.159.0.0/16,
 146.88.240.0/20,
@@ -22,3 +22,22 @@ CIDR,Owner
 111.0.0.0/10,ChinanetMobile
 129.250.0.0/16,NTTAmerica
 120.76.0.0/14,Alibaba
+61.160.0.0/16,Chinanet_jiangsu,AS23650
+43.240.0.0/22,Chinanet,AS23650
+27.0.204.0/22,JiangsuCloud,AS23650
+42.157.160.0/19,WeiYiNetworkTech,AS23650
+112.73.64.0/18,FoShan RuiJang Science and Tech Ltd,AS23650
+117.48.128.0/20,Chinanet - CloudVsp,AS23650
+117.48.156.0/22,Chinanet - CloudVsp,AS23650
+117.48.160.0/22,Chinanet - CloudVsp,AS23650
+117.48.164.0/22,Chinanet - CloudVsp,AS23650
+117.48.168.0/22,Chinanet - CloudVsp,AS23650
+117.48.172.0/22,Chinanet - CloudVsp,AS23650
+118.184.128.0/17,ChangZhou Bitcomm,AS23650
+118.184.160.0/21,ChangZhou Bitcomm,AS23650
+118.184.168.0/21,ChangZhou Bitcomm,AS23650
+118.184.176.0/21,ChangZhou Bitcomm,AS23650
+118.184.208.0/21,ChangZhou Bitcomm,AS23650
+118.184.216.0/21,ChangZhou Bitcomm,AS23650
+118.184.240.0/21,ChangZhou Bitcomm,AS23650
+120.132.0.0/19,China Netcom Broadband,AS23650
