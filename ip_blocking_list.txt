@@ -41,3 +41,14 @@ CIDR,Owner,ASN
 118.184.216.0/21,ChangZhou Bitcomm,AS23650
 118.184.240.0/21,ChangZhou Bitcomm,AS23650
 120.132.0.0/19,China Netcom Broadband,AS23650
+111.0.0.0/10,China Mobile,AS9808
+124.220.0.0/14,China Internet Network Information Center,AS45090
+140.249.0.0/16,Chinanet Shangong,ASNunYa
+170.64.128.0/17,Digital Ocean,ASNunYa
+211.206.0.0/14,SK Broadband,ASNunYa
+211.208.0.0/14,SK Broadband,ASNunYa
+4.144.0.0/12,Microsoft,ASNunYa
+43.135.128.0/18,ACEVILLE PTE LTD,AS132203
+43.140.192.0/18,TENCENT Cloud Computing,AS45090
+64.227.128.0/18,Digital Ocean,ASNunYa
+94.127.208.0/21,WIMAX,AS9038
